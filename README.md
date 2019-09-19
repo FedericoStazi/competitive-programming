@@ -3,9 +3,9 @@ This repository contains some of the solutions for competitive programming probl
 
 ## Competitive programming websites
 
-- [codeforces](https://codeforces.com)
-- [codechef](https://codechef.com)
-- [oj.uz](https://oj.uz)
+- [codeforces](https://codeforces.com) (not uploaded yet)
+- [codechef](https://codechef.com) (not uploaded yet)
+- [oj.uz](https://oj.uz) (not uploaded yet)
 
 ## Results in Olympiads
 These are my most important results in Informatics Olympiads:
